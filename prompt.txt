@@ -1,0 +1,11 @@
+Write cold outreach variations for:
+Role: {e.g., SaaS Founder}
+Industry: {e.g., CRM software}
+Problem: {e.g., low demo conversions}
+Outcome: {e.g., more qualified demos}
+Offer: {e.g., AI content system for LinkedIn + email}
+
+Need:
+1) Cold Email (subject + body)
+2) LinkedIn (connection note + follow-up)
+3) WhatsApp (1-2 line pitch)
