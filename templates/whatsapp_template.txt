@@ -1,0 +1,1 @@
+Hi {Name} — quick idea to improve {Outcome} at {Company}. I build a simple AI content + outreach workflow teams use to fix {Problem}. If useful, I can share a 2-step outline. Interested?
