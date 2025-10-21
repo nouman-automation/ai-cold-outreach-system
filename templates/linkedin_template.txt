@@ -1,0 +1,5 @@
+Connection note:
+Hi {Name}, liked your post on {topic}. I help {Role}s in {Industry} get {Outcome} using AI content + outreach. Open to connect?
+
+Follow-up DM:
+Thanks for connecting {Name}! If relevant, I can share a short outline of the 2-step workflow teams use to improve {Outcome}. Want me to send?
