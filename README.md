@@ -12,3 +12,10 @@ Prompt Engineering + AI Content Frameworks
 
 ## 👨‍💻 Created by
 Nouman Shehzad – AI Workflow & Automation Engineer
+## 📁 Project Structure
+- system_prompt.txt — core logic
+- prompt.txt — quick use
+- workflow.md — how to use
+- templates/ — ready-to-send copies
+- examples/ — inputs & outputs
+- case-study-template.md — evidence builder
